@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Sathvik-D-K
+- 👋 Hi, I’m Sathvik-D-K
 - 👀 I’m interested in Data Science/ Data Analytics / Machine Learning / Deep Learning.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Sathvik-D-K/Sathvik-D-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

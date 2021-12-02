@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sathvik-D-K
-- 👀 I’m interested in Data Science/ Data Analytics / Machine Learning / Deep Learning.
+- 👀 Data Science/ Data Analytics / Machine Learning / Deep Learning enthusiast.
+- Having keen interest to draw a meaningful insight from a bunch of data.
 
 
 <!---

@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sathvik-D-K](https://github.com/Sathvik-D-K)
 
-- 📫 How to reach me **sathvikdkb@gmail.com**
+- 📫 How to reach me **sathvikdkms@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

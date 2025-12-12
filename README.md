@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathvik Dembale Krishnappagowda</h1>
-<h3 align="center">Data Science / Machine Learning / Deep Learning Enthusiast.</h3>
+<h3 align="center"> Interest Areas : AI / Data Science / Machine Learning / Deep Learning / Computer Vision </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sathvik-D-K](https://github.com/Sathvik-D-K)
 

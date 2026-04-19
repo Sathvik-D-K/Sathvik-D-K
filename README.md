@@ -19,11 +19,11 @@
 </div>
 
 🔬 Professional Summary & Value Proposition
-As an AI Engineer and Data Scientist with a Master of Science in Mechatronics and over 2.5 years of dedicated industrial experience, I specialize in architecting, optimizing, and deploying complex Computer Vision, Data Science, and Deep Learning pipelines. My work is heavily focused on transitioning theoretical neural network architectures into highly efficient, scalable production environments while managing the end-to-end machine learning lifecycle.
+As an AI/ Computer Vision Engineer with a Master of Science degree and a dedicated industrial experience, I specialize in architecting, optimizing, and deploying complex Computer Vision, Data Science, and Deep Learning pipelines. My work is heavily focused on transitioning theoretical neural network architectures into highly efficient, scalable production environments while managing the end-to-end machine learning lifecycle.
 
 🌍 Location & Work Status: Based in Jena, Germany. Holder of German Permanent Residence (Unrestricted Work Permit).
 
-🚀 Production Impact & Optimization: Engineered and deployed automated ML/CV inspection models achieving 95%+ accuracy in semiconductor defect classification. Formulated and deployed algorithmic defect pre-filtering pipelines that reduced computational overhead and processing time by 90%.
+🚀 Production Impact & Optimization: Engineered and deployed automated ML/CV inspection models achieving 95%+ accuracy in semiconductor defect classification.
 
 📊 Data Science & Analytics: Proficient in large-scale dataset curation, Exploratory Data Analysis (EDA), statistical modeling, data visualization, and feature engineering to drive robust machine learning experiments.
 

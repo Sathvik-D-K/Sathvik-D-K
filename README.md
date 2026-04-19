@@ -75,30 +75,8 @@ Focus: Exploratory Data Analysis, Statistical Modeling, Feature Engineering, and
 <p align="left">
 <img src="https://img.shields.io/badge/Python%20(Expert)-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C%23%20(Intermediate)-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-📊 GitHub Analytics & Telemetry
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sathvik-D-K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sathvik-D-K&show_icons=true&theme=default&hide_border=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api?username=Sathvik-D-K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sathvik's GitHub Stats" width="48%" />
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik-D-K&layout=compact&theme=tokyonight&hide_border=true">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik-D-K&layout=compact&theme=default&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik-D-K&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Overview" width="48%" />
-</picture>
-</div>
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sathvik-D-K&theme=tokyonight&hide_border=true">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sathvik-D-K&theme=default&hide_border=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathvik-D-K&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="100%" />
-</picture>
-</div>
 
 📚 Highlighted Publications & Academic Research
 One-Shot Defect Fingerprint Comparability Using Siamese Networks for Wafer Map Similarity in Semiconductor Manufacturing
